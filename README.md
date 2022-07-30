@@ -17,5 +17,5 @@
 Apaixonado por desenvelvimento web e facilitar a vidas as pessoas com a tecnologia.
 
 ### Cursos 📚
-- Cursando Anániles e Desenvolvimento de sistema - Universidade Cruzeiro do Sul
+- Cursando Anánile e Desenvolvimento de sistema - Universidade Cruzeiro do Sul
 - Cursando ForntEnd - Alura / Oracle
