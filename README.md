@@ -18,4 +18,4 @@ Apaixonado por desenvelvimento web e facilitar a vidas as pessoas com a tecnolog
 
 ### Cursos 📚
 - Cursando Anánile e Desenvolvimento de sistema - Universidade Cruzeiro do Sul
-- Cursando Front-End - Alura - Oracle.
+- Cursando Front-End - Alura - Oracle..
